@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\Lukas\Desktop\c++\ObijektinioZaidimas\ObijektinioZaidimas\Game.cpp(42,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Lukas\Desktop\c++\ObijektinioZaidimas\ObijektinioZaidimas\Game.cpp(42,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Lukas\Desktop\c++\ObijektinioZaidimas\ObijektinioZaidimas\Game.cpp(117,14): warning C4101: 'proc': unreferenced local variable
+  ObijektinioZaidimas.vcxproj -> C:\Users\Lukas\Desktop\c++\ObijektinioZaidimas\x64\Debug\ObijektinioZaidimas.exe
